@@ -135,6 +135,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Job boards
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
+  2. 1. [Salarship](https://salarship.com/) - Low-competition jobs, search for remote jobs in your location.
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
   1. [Built In](https://builtin.com/jobs/remote)
   1. [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
